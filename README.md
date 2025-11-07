@@ -95,7 +95,7 @@ cd naver-estate-scraper
 
 ### 기본 사용
 ```bash
-python realEstateTest.py
+python realEstate.py
 ```
 
 실행하면 다음 정보를 입력하라고 나옵니다:
